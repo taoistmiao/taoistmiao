@@ -1,5 +1,5 @@
 # Hi there, I'm Guotong Miao.👋 
-🌱 Welcome to my profile. I’m currently learning how to use Github
+🌱 Welcome to my profile! I’m currently a seond-year student at McMastrer University majoring in computer engineering, always eager to learn new knowledge.
 
 <!--
 **taoistmiao/taoistmiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
