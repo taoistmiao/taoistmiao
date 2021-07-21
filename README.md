@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoistmiao&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taoistmiao&show_icons=true&theme=react&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taoistmiao&show_icons=true&theme=react&count_private=true&hide=prs,issues)
 
 <!--
 **taoistmiao/taoistmiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
