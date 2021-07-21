@@ -1,7 +1,7 @@
 # Hi there, I'm Guotong Miao.👋 
 🌱 Welcome to my profile! I’m currently a seond-year student at McMastrer University majoring in computer engineering, always eager to learn new knowledge.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoistmiao&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoistmiao&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taoistmiao&show_icons=true&theme=react&count_private=true)
 
