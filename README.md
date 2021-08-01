@@ -1,5 +1,5 @@
 # Hi there, I'm Guotong Miao.👋 
-🌱 Welcome to my profile! I’m currently a seond-year student at McMastrer University majoring in computer engineering, always eager to learn new knowledge.
+🌱 Welcome to my profile! I’m currently a third-year student at McMastrer University majoring in computer engineering, always eager to learn new knowledge.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoistmiao&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
